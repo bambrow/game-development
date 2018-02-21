@@ -1,0 +1,40 @@
+/*
+ * if S represents the head of the snake:
+ * --------
+ * |8|1|16|
+ * |2|S| 4|
+ * --------
+ * the value represents the surrounding environment of the snake head
+ * F: front L: left R: right Z: left front Y: right front
+ * 1 F
+ * 2 L
+ * 3 FL
+ * 4 R
+ * 5 FR
+ * 6 LR
+ * 7 FLR
+ * 8 Z
+ * 9 FZ
+ * 10 LZ
+ * 11 FLZ
+ * 12 RZ
+ * 13 FRZ
+ * 14 LRZ
+ * 15 FLRZ
+ * 16 Y
+ * 17 FY
+ * 18 LY
+ * 19 FLY
+ * 20 RY
+ * 21 FRY
+ * 22 LRY
+ * 23 FLRY
+ * 24 ZY
+ * 25 FZY
+ * 26 LZY
+ * 27 FLZY
+ * 28 RZY
+ * 29 FRZY
+ * 30 LRZY
+ * 31 FLRZY
+ */
