@@ -34,4 +34,12 @@ Some other facts:
 5) Power up does not expire until no one picks it up. One power up at most at the same time.
 6) One big enemy at most at the same time.
 
+To compile and play, simply run the following commands:
+```bash
+> cd src
+> javac -cp ".:../lib/stdlib.jar" *.java
+> java -cp ".:../lib/stdlib.jar" Game
+```
+
+
 ![demo](https://github.com/bambrow/game-development/raw/master/java-space-invader-game/readme.gif)
