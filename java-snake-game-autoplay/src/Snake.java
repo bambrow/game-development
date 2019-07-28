@@ -1,4 +1,4 @@
-import com.sun.glass.events.KeyEvent;
+import java.awt.event.KeyEvent;
 
 import edu.princeton.cs.introcs.StdDraw;
 
