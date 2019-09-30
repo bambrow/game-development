@@ -42,4 +42,4 @@ To compile and play, simply run the following commands:
 ```
 
 
-![demo](https://github.com/bambrow/game-development/raw/master/java-space-invader-game/readme.gif)
+<img src="readme.gif" alt="demo" style="zoom:80%;" />

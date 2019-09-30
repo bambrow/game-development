@@ -9,5 +9,5 @@ To compile and play, simply run the following commands:
 > java -cp ".:../lib/stdlib.jar" Demo
 ```
 
-![demo](https://github.com/bambrow/game-development/raw/master/java-dodge-game/readme.gif)
+<img src="readme.gif" alt="demo" style="zoom:80%;" />
 
